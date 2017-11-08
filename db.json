@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Matheus",
+            "email": "matheus.santos@akna.com",
+            "age": "21",
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "name": "Vitor",
+            "email": "matheus.santos@akna.com",
+            "age": "22",
+            "companyId": "1"
+        },
+        {
+            "id": "3",
+            "name": "Rafael",
+            "email": "matheus.santos@akna.com",
+            "age": "24",
+            "companyId": "2"
+        },
+        {
+            "id": "4",
+            "name": "Felipe",
+            "email": "matheus.santos@akna.com",
+            "age": "24",
+            "companyId": "2"
+        },
+        {
+            "id": "5",
+            "name": "Vinicius",
+            "email": "matheus.santos@akna.com",
+            "age": "24",
+            "companyId": "2"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Akna",
+            "description": "lorem ipsum"
+        },
+        {
+            "id": "2",
+            "name": "Akna",
+            "description": "lorem ipsum"
+        },
+        {
+            "id": "3",
+            "name": "Akna",
+            "description": "lorem ipsum"
+        },
+        {
+            "id": "4",
+            "name": "Akna",
+            "description": "lorem ipsum"
+        }
+    ]
+}
